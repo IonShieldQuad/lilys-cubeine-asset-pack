@@ -3,6 +3,7 @@ Version: 1.0.2
 Date: 2025-05-24
   Changes:
     - Split asset pack into two
+    - Added railgun graphics
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 2025-05-03
